@@ -1,0 +1,6 @@
+D:\GitClones\QRCodeGenerater\BarCodeGenerator\bin\Debug\BarCodeGenerator.dll
+D:\GitClones\QRCodeGenerater\BarCodeGenerator\bin\Debug\BarCodeGenerator.pdb
+D:\GitClones\QRCodeGenerater\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.CoreCompileInputs.cache
+D:\GitClones\QRCodeGenerater\BarCodeGenerator\obj\Debug\BarCodeGenerator.dll
+D:\GitClones\QRCodeGenerater\BarCodeGenerator\obj\Debug\BarCodeGenerator.pdb
+D:\GitClones\QRCodeGenerater\BarCodeGenerator\obj\Debug\BarCodeGenerator.csprojAssemblyReference.cache
